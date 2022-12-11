@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c955c97-6296-42dc-9c4b-de1507cc4c60" name="Changes" comment="exit gracefully">
-      <change afterPath="$PROJECT_DIR$/src/BackgroundTask.java" afterDir="false" />
+    <list default="true" id="5c955c97-6296-42dc-9c4b-de1507cc4c60" name="Changes" comment="Best solution">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BackgroundHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BackgroundHandler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670783230272</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Best solution">
+      <created>1670793982115</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670793982115</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,6 +148,7 @@
     <MESSAGE value="firstaasdasd" />
     <MESSAGE value="All good exit Remaining" />
     <MESSAGE value="exit gracefully" />
-    <option name="LAST_COMMIT_MESSAGE" value="exit gracefully" />
+    <MESSAGE value="Best solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Best solution" />
   </component>
 </project>
