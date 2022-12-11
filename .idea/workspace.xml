@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c955c97-6296-42dc-9c4b-de1507cc4c60" name="Changes" comment="All good exit Remaining">
+    <list default="true" id="5c955c97-6296-42dc-9c4b-de1507cc4c60" name="Changes" comment="exit gracefully">
+      <change afterPath="$PROJECT_DIR$/src/BackgroundTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BackgroundHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BackgroundHandler.java" afterDir="false" />
     </list>
@@ -46,6 +47,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.Server">
     <configuration name="FXClient" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FXClient" />
@@ -110,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670733666150</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="exit gracefully">
+      <created>1670783230272</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670783230272</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +142,7 @@
     <MESSAGE value="first" />
     <MESSAGE value="firstaasdasd" />
     <MESSAGE value="All good exit Remaining" />
-    <option name="LAST_COMMIT_MESSAGE" value="All good exit Remaining" />
+    <MESSAGE value="exit gracefully" />
+    <option name="LAST_COMMIT_MESSAGE" value="exit gracefully" />
   </component>
 </project>

@@ -3,6 +3,7 @@ import java.io.IOException;
 import java.net.Socket;
 
 /**
+ * BackgroundHandler class implements Runnable
  * This class will handle the Broadcast messages from the server
  * to all the clients in ArrayList of connected clients
  */
@@ -20,7 +21,7 @@ public class BackgroundHandler implements Runnable {
         try {
             // Loop through all the clients in the ArrayList
             // and send the message to each client
-            // Dispalay the message on console as well
+            // Display the message on console as well
             for (Socket client : Server.connections) {
                 DataOutputStream out = new DataOutputStream(client.getOutputStream());
                 out.writeUTF(message);
